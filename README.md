@@ -1,2 +1,2 @@
 # Bokeh_chart
-In this project I am going to show the basic use of the Bokeh which is a python library used for interactive visualization. 
+A Chart visualization of Cars and their horsepower. This project is created with python and Bokeh which is a python library for interactive visualization.
